@@ -1,4 +1,8 @@
 
+p{
+	background-color: #000066;
+}
+
 .toolbar ul {
     position: fixed;
     top: 0;
