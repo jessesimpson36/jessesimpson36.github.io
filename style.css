@@ -37,7 +37,10 @@ p{
 } 
 
 .bubble {
-	border: 5px #FFF solid;
+	border-color:black;
+	border-style: solid;
+	border-width: 2px;
+	margin: 10px;
 	
 }
 
