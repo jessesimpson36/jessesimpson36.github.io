@@ -1,12 +1,10 @@
 
 body{
 	border: 5px solid #FFF;
-    background-image: url(code.jpg);
 }
 
 p{
 	border: 5px solid #000;
-    background-color: #fff;
 }
 
 .toolbar ul {
@@ -23,7 +21,6 @@ p{
 .toolbar li {
   float: left;
 }
-
 
 .toolbar li a {
     display: block;
@@ -42,7 +39,6 @@ p{
 	border-style: solid;
 	border-width: 2px;
 	margin: 10px;
-	background-color: #fff;
 }
 
 
